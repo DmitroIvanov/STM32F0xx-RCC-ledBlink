@@ -1,4 +1,4 @@
-//rcc_clock_init.h
+﻿//rcc_clock_init.h
 
 #ifndef __RCC_CLOCK_INIT_H__
 #define __RCC_CLOCK_INIT_H__
