@@ -1,5 +1,4 @@
 ﻿//main.h
-//10.04.2018
 
 #ifndef __MAIN_H__
 #define __MAIN_H__
